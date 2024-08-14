@@ -1,0 +1,40 @@
+li, ol, li{
+    font-size: 110%;
+
+}
+/* muda o tamaho da fonte  */
+h1{
+    font-size: 170%;
+    background-color: #ffb31a ;
+}
+/* muda tamanho e cor da fonte */
+h2{
+    font-size: 150%;
+    background-color:#ffd480 ;
+    
+}
+/* muda tamanho e cor da fonte */
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+/* deixa a imagem bem no centro da pagina */
+h2, h1{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+/* muda o valor das fontes para negrito e adiciona uma familia de fontes  */
+body{
+    background-color:  #ffffcc;
+    text-align: justify;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 40%;
+       border: 10px solid transparent;
+       padding: 15px;
+       border-image: url(https://www.w3schools.com/css/border.png) 30 stretch;
+}
+/* deixa o texto alinhado no centro e jutificado, muda a cor do fundo da pagina, e adiciona uma borda ao redor de todo o texto  */
